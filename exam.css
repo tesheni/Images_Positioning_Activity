@@ -1,1 +1,77 @@
+@charset "UTF-8";
+/* CSS Document */
 
+
+h1 {text-align:center;
+text-transform:uppercase;
+font-size:2.5em;}
+
+#content {
+	width: 960px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#tales {
+	float: left;
+	width: 600px;
+	border-bottom:solid 1px #000000;
+}
+
+#entertain {
+	float: left;
+	width: 600px;
+}
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#content p {line-height:1.6em;}
+#attention {
+	clear:left;
+	float: left;
+	width: 300px;
+	border-right-style: solid;
+	margin:0px .8em 0px 0px;}
+	
+#contact {
+	float: left;
+	width: 300px;
+	border-right-style: solid;
+	margin:0px .8em 0px 0px;}
+	
+#picture {
+	float: left;
+	width: 300px;
+	margin:0px .8em 0px 0px;}
+	
+#compete {
+	clear:both;
+	width: 940px;
+	margin-top:3em!important;
+	}
+
+#looks {
+	background-color: #FF3;
+	float: left;
+	width: 300px;
+	padding:1em;
+	margin:0px 1em 1em 0px;
+}
+
+.heading {background-color:#FF3;
+padding:.75em;
+text-align:center;}
+
+.align {text-align:center;}
+
+.steve {
+border-right:#009 solid 1px;
+padding:0px 2.5em 0px;
+width:500px;
+margin:0px auto
+text-align:right;
+float:right;
+font-style:italic;
+background-color:#99FF00;}
